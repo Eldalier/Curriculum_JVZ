@@ -1,0 +1,59 @@
+html {
+    background: linear-gradient(rgba(0, 0, 255, 0.723), rgba(0, 110, 255, 0.445),rgba(0, 157, 255, 0.368) );
+    height: 150vh;
+}
+
+h1 {
+    color: white;
+    background-color: rgba(73, 43, 226, 0.443);
+    padding: 15px;
+    font-size: 55px;
+    text-align: center;
+
+}
+h2 {
+    font-size: 45px;
+    background-color: rgba(0, 47, 255, 0.268);
+    color: white;
+    border-bottom: 2px groove rgb(0, 0, 0);
+}
+
+body {
+  
+   margin-left: 200px;
+   margin-right: 200px;
+   font-family: sans-serif;
+   
+}
+.sobre {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+p{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+span {
+    color: white;
+}
+.sub {
+    color: rgb(25, 20, 126);
+    font-weight: bold;
+    font-size: 20px;
+}
+.des{
+    color: black;
+    font-weight: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 20px;
+}
+a:hover{
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.521);
+}
